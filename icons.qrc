@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>Icons/calculator-icon.png</file>
+    <file>Icons/calculator2-icon.png</file>
+    <file>Icons/Cancel_icon.png</file>
+    <file>Icons/Edit_page_icon.png</file>
+    <file>Icons/Exit_icon.png</file>
+    <file>Icons/Folder_icon.png</file>
+    <file>Icons/Help_icon.png</file>
+    <file>Icons/Info_icon.png</file>
+    <file>Icons/Ok_icon.png</file>
+    <file>Icons/Pencil_icon.png</file>
+    <file>Icons/Save_icon.png</file>
+    <file>Icons/Warning_icon.png</file>
+    <file>Icons/Play_icon.png</file>
+    <file>Icons/Open_icon.png</file>
+</qresource>
+</RCC>

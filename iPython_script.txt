@@ -1,0 +1,20 @@
+
+cd ../MCMEstym_11_3_eng
+import MCMpropagation
+M=100000
+P=95
+var_names=[]
+variables=[]
+var_names.append('ab')
+variables.append(MCMpropagation.assignVar(M,var_names[-1],'5',0,0.0,1.0))
+var_names.append('cb')
+variables.append(MCMpropagation.assignVar(M,var_names[-1],'5',0,0.0,1.0))
+model = 'ab+cb'
+Prop = MCMpropagation.Ypdf(M,P,model,var_names,variables)
+newPDF = Prop.procExpression()
+Prop.calculate()
+"The best estimate value:", Prop.y
+"Standard uncertainty value:", Prop.uy
+"the left end of the interval:", Prop.prd
+"the right end of the interval:", Prop.prw
+
