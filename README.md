@@ -1,5 +1,5 @@
 # MCMEstym
-# 09.10.2016 initial document created by pawelec
+//09.10.2016 initial document created by pawelec
 
 MCMpropagation.py this is the main component of the project. This is a Paython module which helps to evaluate uncertainty in measurement with the Monte Carlo method.
 
@@ -13,4 +13,4 @@ The GUI contains the following components:
 - icons_rc.py source file for icons,
 - help.html source file for help (not ready yet).
 
-iPython_script.txt this is very basic script which you can run with iPython, it showing how to use the main module in order to calculate all necessary values to evaluate an uncertainty in measurement.
+iPython_script.txt - this is very basic script which you can run with iPython, it showing how to use the main module in order to calculate all necessary values to evaluate an uncertainty in measurement.
