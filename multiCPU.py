@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 13 16:14:47 2016
 
-@author: pawelec
+@author: this is not my code, I have found it in the Internet but couldn't recall the source and the author
 """
 
 from os import sysconf,environ,listdir
