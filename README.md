@@ -1,5 +1,6 @@
 # MCMEstym
 //09.10.2016 initial document created by pawelec
+//06.11.2016 the project is under private redevelopment, not all components are available for the time being. 
 
 MCMpropagation.py this is the main component of the project. This is a Paython module which helps to evaluate uncertainty in measurement with the Monte Carlo method.
 
